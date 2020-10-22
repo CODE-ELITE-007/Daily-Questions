@@ -76,7 +76,10 @@ day9 - 10/19/2020
 
 day10 - 10/21/2020
 
-- [Maximum subarray](https://leetcode.com/problems/maximum-subarray/)
-- [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
-- [House robber](https://leetcode.com/problems/house-robber/)
-- [Longest valid parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+
+- [Maximum subarray](https://leetcode.com/problems/maximum-subarray/)[ Shazib_1](https://github.com/shazx06/cp/blob/main/21oct/1.py)
+- [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)[ Shazib_2](https://github.com/shazx06/cp/blob/main/21oct/2.py)
+- [House robber](https://leetcode.com/problems/house-robber/)[ shazib_3](https://github.com/shazx06/cp/blob/main/21oct/3.py)
+- [Longest valid parentheses](https://leetcode.com/problems/longest-valid-parentheses/)[ shazib_4](https://github.com/shazx06/cp/blob/main/21oct/4.py)
+
+
