@@ -8,7 +8,7 @@ daily practise questions
 
 | Contestant Name | Points |
 | --------------- | ------ |
-| contestant1     | 0 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)     | 1 🏅   |
 | contestant2     | 0 🏅   |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
@@ -82,4 +82,9 @@ day10 - 10/21/2020
 - [House robber](https://leetcode.com/problems/house-robber/)[ shazib_3](https://github.com/shazx06/cp/blob/main/21oct/3.py)
 - [Longest valid parentheses](https://leetcode.com/problems/longest-valid-parentheses/)[ shazib_4](https://github.com/shazx06/cp/blob/main/21oct/4.py)
 
+day11 - 10/22/2020
 
+- [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Unique paths 2](https://leetcode.com/problems/unique-paths-ii/)
+- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Is subsequence](https://leetcode.com/problems/is-subsequence/)
