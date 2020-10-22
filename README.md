@@ -84,7 +84,7 @@ day10 - 10/21/2020
 
 day11 - 10/22/2020
 
-- [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [Unique paths 2](https://leetcode.com/problems/unique-paths-ii/)
-- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [Is subsequence](https://leetcode.com/problems/is-subsequence/)
+- [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)[ shaz_1](https://github.com/shazx06/cp/blob/main/22oct/1.py)
+- [Unique paths 2](https://leetcode.com/problems/unique-paths-ii/)[ shaz_2](https://github.com/shazx06/cp/blob/main/22oct/2.py)
+- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[ shaz_3](https://github.com/shazx06/cp/blob/main/22oct/3.py)
+- [Is subsequence](https://leetcode.com/problems/is-subsequence/)[ shaz_4](https://github.com/shazx06/cp/blob/main/22oct/4.py)
