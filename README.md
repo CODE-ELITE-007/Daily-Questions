@@ -88,3 +88,11 @@ day11 - 10/22/2020
 - [Unique paths 2](https://leetcode.com/problems/unique-paths-ii/)[ shaz_2](https://github.com/shazx06/cp/blob/main/22oct/2.py)
 - [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[ shaz_3](https://github.com/shazx06/cp/blob/main/22oct/3.py)
 - [Is subsequence](https://leetcode.com/problems/is-subsequence/)[ shaz_4](https://github.com/shazx06/cp/blob/main/22oct/4.py)
+
+
+day12 - 10/24/2020
+
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
+- [Jump Game](https://leetcode.com/problems/jump-game/submissions/1)
+- [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
