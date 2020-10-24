@@ -94,5 +94,5 @@ day12 - 10/24/2020
 
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/1)
-- [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
