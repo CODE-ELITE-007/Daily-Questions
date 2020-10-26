@@ -59,7 +59,7 @@ day7 - 10/14/2020 (HackerRank)
 
 - [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
 - [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
-- [Reverse a doubkky linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)
+- [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)
 - [Detect whether a linked list contains a cycle](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
 
 day8 - 10/17/2020
