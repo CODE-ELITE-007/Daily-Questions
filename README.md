@@ -29,10 +29,11 @@ day2 - 10/7/2020
 
 day3 - 10/9/2020
 
-- [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
-- [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)
+- [Add two numbers](https://leetcode.com/problems/add-two-numbers/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/1.py)
+- [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/2.py)
+- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/3.py)
+- [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/4.py)
+
 
 day4 - 10/11/2020
 
@@ -45,8 +46,7 @@ day5 - 10/12/2020
 - [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Min stack](https://leetcode.com/problems/min-stack/)
 - [Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
-- [Decode string](https://leetcode.com/problems/decode-string/)
-
+- [Decode string](https://leetcode.com/problems/decode-string/) 
 day6 - 10/13/2020
 
 - [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)
