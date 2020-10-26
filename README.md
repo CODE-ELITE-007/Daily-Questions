@@ -8,7 +8,7 @@ daily practise questions
 
 | Contestant Name | Points |
 | --------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)     | 2 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)     | 3 🏅   |
 | contestant2     | 0 🏅   |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
@@ -92,7 +92,8 @@ day11 - 10/22/2020
 
 day12 - 10/24/2020
 
-- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
-- [Jump Game](https://leetcode.com/problems/jump-game/submissions/1)
-- [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+- [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/1_min_cost_climbing_stairs.py)
+- [Jump Game](https://leetcode.com/problems/jump-game/submissions/1)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/2_jump_game.py)
+- [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/3_buy_sell_stock_2.py)
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/4_minimun_path_sum.py)
+ 
