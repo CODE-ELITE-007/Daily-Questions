@@ -8,31 +8,32 @@ daily practise questions
 
 | Contestant Name | Points |
 | --------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)     | 3 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)     | 6 🏅   |
 | contestant2     | 0 🏅   |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
 
 day1 - 10/6/2020
 
-- [Two sum](https://leetcode.com/problems/two-sum/)
-- [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Two sum](https://leetcode.com/problems/two-sum/)[ shaz](https://github.com/shazx06/cp/blob/main/6oct/1.py)
+- [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)[ shaz](https://github.com/shazx06/cp/blob/main/6oct/2.py)
+- [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)[ shaz](https://github.com/shazx06/cp/blob/main/6oct/3.py)
+- [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[ shaz](https://github.com/shazx06/cp/blob/main/6oct/4.py)
 
 day2 - 10/7/2020
 
-- [Rotate array](https://leetcode.com/problems/rotate-array/)
-- [Can place flowers](https://leetcode.com/problems/can-place-flowers/)
-- [Container with most water](https://leetcode.com/problems/container-with-most-water/)
-- [Word serach](https://leetcode.com/problems/word-search/)
+- [Rotate array](https://leetcode.com/problems/rotate-array/)[ shaz](https://github.com/shazx06/cp/blob/main/7oct/1.py)
+- [Can place flowers](https://leetcode.com/problems/can-place-flowers/)[ shaz](https://github.com/shazx06/cp/blob/main/7oct/2.py)
+- [Container with most water](https://leetcode.com/problems/container-with-most-water/)[ shaz](https://github.com/shazx06/cp/blob/main/7oct/3.py)
+- [Word serach](https://leetcode.com/problems/word-search/)[ shaz](https://github.com/shazx06/cp/blob/main/7oct/4.py)
 
 day3 - 10/9/2020
 
-- [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
-- [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)
+- [Add two numbers](https://leetcode.com/problems/add-two-numbers/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/1.py)
+- [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/2.py)
+- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/3.py)
+- [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) [shaz](https://github.com/shazx06/cp/blob/main/9oct/4.py)
+
 
 day4 - 10/11/2020
 
@@ -45,7 +46,8 @@ day5 - 10/12/2020
 - [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Min stack](https://leetcode.com/problems/min-stack/)
 - [Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
-- [Decode string](https://leetcode.com/problems/decode-string/)
+- [Decode string](https://leetcode.com/problems/decode-string/) 
+
 
 day6 - 10/13/2020
 
