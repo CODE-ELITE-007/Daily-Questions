@@ -8,7 +8,7 @@ daily practise questions
 
 | Contestant Name | Points |
 | --------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)     | 6 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)     | 7 🏅   |
 | contestant2     | 0 🏅   |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
@@ -37,7 +37,7 @@ day3 - 10/9/2020
 
 day4 - 10/11/2020
 
-- [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)
+- [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) [shaz](https://github.com/shazx06/cp/blob/main/11oct/README.md)
 - [Convert binary number in a linked list to integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/)
 
