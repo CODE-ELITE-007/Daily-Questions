@@ -8,7 +8,7 @@ daily practise questions
 
 | Contestant Name | Points |
 | --------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)     | 7 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)     | 13 🏅   |
 | contestant2     | 0 🏅   |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
@@ -43,7 +43,7 @@ day4 - 10/11/2020
 
 day5 - 10/12/2020
 
-- [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Valid parentheses](https://leetcode.com/problems/valid-parentheses/) [shaz](https://github.com/shazx06/cp/blob/main/12oct/README.md)
 - [Min stack](https://leetcode.com/problems/min-stack/)
 - [Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [Decode string](https://leetcode.com/problems/decode-string/) 
@@ -51,32 +51,36 @@ day5 - 10/12/2020
 
 day6 - 10/13/2020
 
-- [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [Daily temperatures](https://leetcode.com/problems/daily-temperatures/) [shaz](https://github.com/shazx06/cp/blob/main/13oct/README.md)
 - [Remove duplicates from sorted list 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 day7 - 10/14/2020 (HackerRank)
 
-- [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
+- [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) [shaz](https://github.com/shazx06/cp/blob/main/14oct/README.md)
 - [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 - [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)
 - [Detect whether a linked list contains a cycle](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
 
-day8 - 10/17/2020
+day8 - 10/15/2020
+- [roman to integer](https://leetcode.com/problems/roman-to-integer/) [shaz](https://github.com/shazx06/cp/edit/main/15oct/README.md)
+- [integer to roman](https://leetcode.com/problems/integer-to-roman/description/)
 
-- [Plus one](https://leetcode.com/problems/plus-one/)
+day9 - 10/17/2020
+
+- [Plus one](https://leetcode.com/problems/plus-one/) [shaz](https://github.com/shazx06/cp/blob/main/17oct/README.md)
 - [Number of students doing homework at a given time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 - [Trapping rain water](https://leetcode.com/problems/trapping-rain-water)
 - [Contains duplicates](https://leetcode.com/problems/contains-duplicate)
 
-day9 - 10/19/2020
+day10 - 10/19/2020
 
-- [Maximum product of two elements in an array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
+- [Maximum product of two elements in an array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) [shaz](https://github.com/shazx06/cp/blob/main/19oct/README.md)
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Unique paths](https://leetcode.com/problems/unique-paths/)
 - [Two sum 2 input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-day10 - 10/21/2020
+day11 - 10/21/2020
 
 
 - [Maximum subarray](https://leetcode.com/problems/maximum-subarray/)[ Shazib_1](https://github.com/shazx06/cp/blob/main/21oct/1.py)
@@ -84,7 +88,7 @@ day10 - 10/21/2020
 - [House robber](https://leetcode.com/problems/house-robber/)[ shazib_3](https://github.com/shazx06/cp/blob/main/21oct/3.py)
 - [Longest valid parentheses](https://leetcode.com/problems/longest-valid-parentheses/)[ shazib_4](https://github.com/shazx06/cp/blob/main/21oct/4.py)
 
-day11 - 10/22/2020
+day12 - 10/22/2020
 
 - [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)[ shaz_1](https://github.com/shazx06/cp/blob/main/22oct/1.py)
 - [Unique paths 2](https://leetcode.com/problems/unique-paths-ii/)[ shaz_2](https://github.com/shazx06/cp/blob/main/22oct/2.py)
@@ -92,7 +96,7 @@ day11 - 10/22/2020
 - [Is subsequence](https://leetcode.com/problems/is-subsequence/)[ shaz_4](https://github.com/shazx06/cp/blob/main/22oct/4.py)
 
 
-day12 - 10/24/2020
+day13 - 10/24/2020
 
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/1_min_cost_climbing_stairs.py)
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/1)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/2_jump_game.py)
