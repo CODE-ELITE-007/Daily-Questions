@@ -102,4 +102,10 @@ day13 - 10/24/2020
 - [Jump Game](https://leetcode.com/problems/jump-game/submissions/1)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/2_jump_game.py)
 - [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/3_buy_sell_stock_2.py)
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)[ shaz](https://github.com/shazx06/cp/blob/main/24oct/4_minimun_path_sum.py)
+
+Day14 -11/1/2020
+
+1. [simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)\
+2. [Largest rectangle problem](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+3. [poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)
  
