@@ -105,7 +105,12 @@ day13 - 10/24/2020
 
 Day14 -11/1/2020
 
-1. [simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)\
+1. [simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) [shaz](https://github.com/shazx06/cp/tree/main/1nov)
 2. [Largest rectangle problem](https://www.hackerrank.com/challenges/largest-rectangle/problem)
 3. [poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)
+
+Day15 - 11/03/2020
+
+1. [Boats to save people](https://leetcode.com/problems/boats-to-save-people/)
+2. [Longest Mountains in an Array](https://leetcode.com/problems/longest-mountain-in-array/)
  
