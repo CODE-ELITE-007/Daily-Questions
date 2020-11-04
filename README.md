@@ -114,3 +114,8 @@ Day15 - 11/03/2020
 1. [Boats to save people](https://leetcode.com/problems/boats-to-save-people/) [shaz](https://github.com/shazx06/cp/tree/main/Nov3)
 2. [Longest Mountains in an Array](https://leetcode.com/problems/longest-mountain-in-array/)
  
+ 
+ Day16 - 11/05/2020
+ 
+1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+2. [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/)
