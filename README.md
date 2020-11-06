@@ -8,7 +8,7 @@ daily practise questions
 
 | Contestant Name | Points |
 | --------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)     | 13 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)     | 16 🏅   |
 | contestant2     | 0 🏅   |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
@@ -117,5 +117,5 @@ Day15 - 11/03/2020
  
  Day16 - 11/05/2020
  
-1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [shaz](https://github.com/shazx06/cp/tree/main/Nov5)
 2. [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/)
