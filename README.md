@@ -8,8 +8,8 @@ daily practise questions
 
 | Contestant Name                                | Points |
 | ---------------------------------------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)    | 16 🏅  |
-| [Manoj Uppala](https://github.com/manojuppala) | 5 🏅   |
+| [Shazib Rahman](https://github.com/shazx06)    | 34 🏅  |
+| [Manoj Uppala](https://github.com/manojuppala) | 13 🏅  |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
 
@@ -74,7 +74,7 @@ day9 - 10/17/2020
 
 day10 - 10/19/2020
 
-- [Maximum product of two elements in an array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) [[🔵shaz](https://github.com/shazx06/cp/blob/main/19oct/README.md)]
+- [Maximum product of two elements in an array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) [[🔵shaz](https://github.com/shazx06/cp/blob/main/19oct/README.md)][[🔴manoj_0863](https://github.com/manojuppala/LeetCode-solutions/blob/main/Arrays/Easy/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.cpp)]
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Unique paths](https://leetcode.com/problems/unique-paths/)
 - [Two sum 2 input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
