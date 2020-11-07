@@ -8,7 +8,7 @@ daily practise questions
 
 | Contestant Name                                | Points |
 | ---------------------------------------------- | ------ |
-| [Shazib Rahman](https://github.com/shazx06)    | 34 🏅  |
+| [Shazib Rahman](https://github.com/shazx06)    | 55 🏅  |
 | [Manoj Uppala](https://github.com/manojuppala) | 13 🏅  |
 
 **NOTE :** contestants should update the README with a link to their solutions beside the question and create a pull request. The best and first solution is merged.
